@@ -1,0 +1,15 @@
+date created: 4/27/2021
+
+these examples come from Edureka ILP training course: Node.js Module 2 Demos found in the presentation
+
+part 1: calculation.js 
+    demonstrates how to make a simple calculator using the command line
+
+part 2: fileStructure.js 
+    demonstrates how to work with files to open, get, write, read append, rename, delete
+
+part 3: json/json-data1.js 
+    intro to working with json data and file structure together 
+
+part 4: express.js + data folder
+    How to make a server listen to port
